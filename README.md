@@ -1,3 +1,5 @@
+Final product for blog post here https://sethreid.co.nz/deploying-create-react-app-project-azure-vsts-build-release/
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
